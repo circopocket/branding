@@ -1,5 +1,5 @@
 <div align="right">
-    <img height='20px' src='https://raw.githubusercontent.com/decowallet/branding/master/logos/decowallet-long.png'/>
+    <img height='20px' src='https://raw.githubusercontent.com/decowallet/branding/master/logos/logo-long.png'/>
 </div>
 
 # branding
